@@ -2,7 +2,7 @@
 /*global Promise*/
 /*global Set*/
 /* Kinesis Data Access Example
- * producer.js
+ * consumer.js
  *
  * Purpose: Examples to exercise functions for Kinesis using the AWS SDK.
  * Author: Paul Jensen (paul.t.jensen@gmail.com)
