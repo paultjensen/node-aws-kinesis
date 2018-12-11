@@ -1,0 +1,23 @@
+{
+  "name": "node-aws-kinesis",
+  "version": "0.0.1",
+  "description": "Examples to interface with AWS Kinesis",
+  "main": "index.js",
+  "author": "Paul Jensen (paul.t.jensen@gmail.com)",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk-mock": "latest",
+    "chai": "latest",
+    "grunt": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-mocha-test": "latest",
+    "grunt-shell": "latest",
+    "jshint-stylish": "latest",
+    "load-grunt-tasks": "latest",
+    "mocha": "latest",
+    "mockery": "latest",
+    "sinon": "latest",
+    "nyc": "latest"
+  }
+}
