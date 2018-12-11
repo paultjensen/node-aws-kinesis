@@ -18,6 +18,7 @@
     "mocha": "latest",
     "mockery": "latest",
     "sinon": "latest",
-    "nyc": "latest"
+    "nyc": "latest",
+    "winston": "latest"
   }
 }
